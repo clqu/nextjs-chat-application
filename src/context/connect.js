@@ -17,7 +17,7 @@ export const Provider = ({ children }) => {
         fetch("/api/socket");
 
         const socket = io();
-        socket.connect('http://localhost:3000/api/socket');
+        socket.connect('https://chatapp-clqu.vercel.app/api/socket');
 
         socket.on('connect', () => {
             setConnection(socket);
