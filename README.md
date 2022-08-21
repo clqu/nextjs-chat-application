@@ -4,7 +4,7 @@ Login Page   |  Create Room | Default Room | Protected Room
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![img](https://raw.githubusercontent.com/clqu/nextjs-chat-application/main/screenshots/login_page.png) | ![img](https://raw.githubusercontent.com/clqu/nextjs-chat-application/main/screenshots/create_room.png) | ![img](https://raw.githubusercontent.com/clqu/nextjs-chat-application/main/screenshots/default_room.png) | ![img](https://raw.githubusercontent.com/clqu/nextjs-chat-application/main/screenshots/protected_room.png)
 
-#### [Demo](https://chatapp-clqu.vercel.app)
+#### [Demo](https://chatapp.clqu.repl.co)
 
 
 
